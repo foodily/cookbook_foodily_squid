@@ -1,0 +1,9 @@
+{
+  "id": "foodily_acl",
+  "acl": [
+    [
+      "foodily_hosts",
+      "allow"
+    ]
+  ]
+}

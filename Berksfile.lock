@@ -1,0 +1,10 @@
+DEPENDENCIES
+  foodily_squid
+    path: .
+    metadata: true
+  squid
+
+GRAPH
+  foodily_squid (0.1.0)
+    squid (>= 0.0.0)
+  squid (0.4.2)

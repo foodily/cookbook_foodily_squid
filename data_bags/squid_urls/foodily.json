@@ -1,0 +1,6 @@
+{
+  "urls": [
+    "^https://api.yubico.com/wsapi/2.0/verify"
+  ],
+  "id": "foodily"
+}
